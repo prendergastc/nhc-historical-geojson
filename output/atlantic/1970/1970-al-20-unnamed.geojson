@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6,
+                    25.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1970-09-01 12:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2,
+                    26.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "1970-09-01 18:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5,
+                    28.0
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1970-09-02 00:00:00+00:00",
+                "pressure-mb": 1008.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4,
+                    29.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 20.0,
+                "datetime-utc": "1970-09-02 06:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0,
+                    32.0
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 20.0,
+                "datetime-utc": "1970-09-02 12:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.6,
+                        25.7
+                    ],
+                    [
+                        -97.2,
+                        26.8
+                    ],
+                    [
+                        -97.5,
+                        28.0
+                    ],
+                    [
+                        -97.4,
+                        29.8
+                    ],
+                    [
+                        -97.0,
+                        32.0
+                    ]
+                ]
+            }
+        }
+    ],
+    "properties": {
+        "name": "UNNAMED",
+        "basin": "AL",
+        "year": "1970",
+        "number": "20"
+    }
+}

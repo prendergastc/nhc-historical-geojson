@@ -1,0 +1,1175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.4,
+                    14.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "LO",
+                "wind-speed": 25.0,
+                "datetime-utc": "2018-08-27 18:00:00+00:00",
+                "pressure-mb": 1008.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.3,
+                    15.3
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "LO",
+                "wind-speed": 25.0,
+                "datetime-utc": "2018-08-28 00:00:00+00:00",
+                "pressure-mb": 1007.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0,
+                    16.0
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "LO",
+                "wind-speed": 25.0,
+                "datetime-utc": "2018-08-28 06:00:00+00:00",
+                "pressure-mb": 1006.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7,
+                    16.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2018-08-28 12:00:00+00:00",
+                "pressure-mb": 1006.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.5,
+                    17.2
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 35.0,
+                "datetime-utc": "2018-08-28 18:00:00+00:00",
+                "pressure-mb": 1004.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4,
+                    17.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 45.0,
+                "datetime-utc": "2018-08-29 00:00:00+00:00",
+                "pressure-mb": 1000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.3,
+                    17.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 50.0,
+                "datetime-utc": "2018-08-29 06:00:00+00:00",
+                "pressure-mb": 999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1,
+                    17.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 55.0,
+                "datetime-utc": "2018-08-29 12:00:00+00:00",
+                "pressure-mb": 995.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.7,
+                    17.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 65.0,
+                "datetime-utc": "2018-08-29 18:00:00+00:00",
+                "pressure-mb": 988.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.3,
+                    17.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 75.0,
+                "datetime-utc": "2018-08-30 00:00:00+00:00",
+                "pressure-mb": 982.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0,
+                    17.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 95.0,
+                "datetime-utc": "2018-08-30 06:00:00+00:00",
+                "pressure-mb": 968.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.7,
+                    17.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 125.0,
+                "datetime-utc": "2018-08-30 12:00:00+00:00",
+                "pressure-mb": 941.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4,
+                    17.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 130.0,
+                "datetime-utc": "2018-08-30 18:00:00+00:00",
+                "pressure-mb": 937.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2,
+                    17.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 130.0,
+                "datetime-utc": "2018-08-31 00:00:00+00:00",
+                "pressure-mb": 937.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.9,
+                    17.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 125.0,
+                "datetime-utc": "2018-08-31 06:00:00+00:00",
+                "pressure-mb": 940.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.5,
+                    16.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 115.0,
+                "datetime-utc": "2018-08-31 12:00:00+00:00",
+                "pressure-mb": 949.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.1,
+                    16.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 110.0,
+                "datetime-utc": "2018-08-31 18:00:00+00:00",
+                "pressure-mb": 953.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8,
+                    16.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 100.0,
+                "datetime-utc": "2018-09-01 00:00:00+00:00",
+                "pressure-mb": 961.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5,
+                    16.3
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "2018-09-01 06:00:00+00:00",
+                "pressure-mb": 970.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3,
+                    16.2
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "2018-09-01 12:00:00+00:00",
+                "pressure-mb": 970.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.3,
+                    16.2
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "2018-09-01 18:00:00+00:00",
+                "pressure-mb": 970.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -125.5,
+                    16.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "2018-09-02 00:00:00+00:00",
+                "pressure-mb": 970.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.7,
+                    16.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 95.0,
+                "datetime-utc": "2018-09-02 06:00:00+00:00",
+                "pressure-mb": 966.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.3,
+                    17.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 115.0,
+                "datetime-utc": "2018-09-02 12:00:00+00:00",
+                "pressure-mb": 950.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -130.0,
+                    17.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 120.0,
+                "datetime-utc": "2018-09-02 18:00:00+00:00",
+                "pressure-mb": 947.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -131.8,
+                    18.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 115.0,
+                "datetime-utc": "2018-09-03 00:00:00+00:00",
+                "pressure-mb": 950.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -133.8,
+                    18.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 110.0,
+                "datetime-utc": "2018-09-03 06:00:00+00:00",
+                "pressure-mb": 954.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.7,
+                    19.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 100.0,
+                "datetime-utc": "2018-09-03 12:00:00+00:00",
+                "pressure-mb": 963.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -137.6,
+                    19.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "2018-09-03 18:00:00+00:00",
+                "pressure-mb": 970.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -139.4,
+                    19.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 80.0,
+                "datetime-utc": "2018-09-04 00:00:00+00:00",
+                "pressure-mb": 978.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -141.0,
+                    19.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 75.0,
+                "datetime-utc": "2018-09-04 06:00:00+00:00",
+                "pressure-mb": 982.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -142.6,
+                    19.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 75.0,
+                "datetime-utc": "2018-09-04 12:00:00+00:00",
+                "pressure-mb": 982.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -143.9,
+                    19.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 70.0,
+                "datetime-utc": "2018-09-04 18:00:00+00:00",
+                "pressure-mb": 984.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.1,
+                    19.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 70.0,
+                "datetime-utc": "2018-09-05 00:00:00+00:00",
+                "pressure-mb": 984.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -146.1,
+                    19.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 80.0,
+                "datetime-utc": "2018-09-05 06:00:00+00:00",
+                "pressure-mb": 978.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.2,
+                    19.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 100.0,
+                "datetime-utc": "2018-09-05 12:00:00+00:00",
+                "pressure-mb": 962.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -148.0,
+                    19.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 105.0,
+                "datetime-utc": "2018-09-05 18:00:00+00:00",
+                "pressure-mb": 960.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -148.8,
+                    19.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 105.0,
+                "datetime-utc": "2018-09-06 00:00:00+00:00",
+                "pressure-mb": 960.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.5,
+                    20.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 105.0,
+                "datetime-utc": "2018-09-06 06:00:00+00:00",
+                "pressure-mb": 958.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -150.2,
+                    20.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 100.0,
+                "datetime-utc": "2018-09-06 12:00:00+00:00",
+                "pressure-mb": 960.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -150.6,
+                    21.0
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 95.0,
+                "datetime-utc": "2018-09-06 18:00:00+00:00",
+                "pressure-mb": 963.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.1,
+                    21.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 85.0,
+                "datetime-utc": "2018-09-07 00:00:00+00:00",
+                "pressure-mb": 970.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.6,
+                    22.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 75.0,
+                "datetime-utc": "2018-09-07 06:00:00+00:00",
+                "pressure-mb": 976.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.1,
+                    22.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 65.0,
+                "datetime-utc": "2018-09-07 12:00:00+00:00",
+                "pressure-mb": 983.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.6,
+                    23.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 60.0,
+                "datetime-utc": "2018-09-07 18:00:00+00:00",
+                "pressure-mb": 989.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.1,
+                    24.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 60.0,
+                "datetime-utc": "2018-09-08 00:00:00+00:00",
+                "pressure-mb": 991.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.5,
+                    25.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 55.0,
+                "datetime-utc": "2018-09-08 06:00:00+00:00",
+                "pressure-mb": 995.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -154.1,
+                    25.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 50.0,
+                "datetime-utc": "2018-09-08 12:00:00+00:00",
+                "pressure-mb": 998.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -154.4,
+                    26.4
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 45.0,
+                "datetime-utc": "2018-09-08 18:00:00+00:00",
+                "pressure-mb": 1000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -154.1,
+                    27.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 45.0,
+                "datetime-utc": "2018-09-09 00:00:00+00:00",
+                "pressure-mb": 1000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.9,
+                    27.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 45.0,
+                "datetime-utc": "2018-09-09 06:00:00+00:00",
+                "pressure-mb": 1000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.9,
+                    28.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 45.0,
+                "datetime-utc": "2018-09-09 12:00:00+00:00",
+                "pressure-mb": 1000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.5,
+                    29.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 40.0,
+                "datetime-utc": "2018-09-09 18:00:00+00:00",
+                "pressure-mb": 1002.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.2,
+                    30.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 40.0,
+                "datetime-utc": "2018-09-10 00:00:00+00:00",
+                "pressure-mb": 1002.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.4,
+                    31.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 40.0,
+                "datetime-utc": "2018-09-10 06:00:00+00:00",
+                "pressure-mb": 1002.0
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -109.4,
+                        14.6
+                    ],
+                    [
+                        -110.3,
+                        15.3
+                    ],
+                    [
+                        -111.0,
+                        16.0
+                    ],
+                    [
+                        -111.7,
+                        16.7
+                    ],
+                    [
+                        -112.5,
+                        17.2
+                    ],
+                    [
+                        -113.4,
+                        17.4
+                    ],
+                    [
+                        -114.3,
+                        17.5
+                    ],
+                    [
+                        -115.1,
+                        17.6
+                    ],
+                    [
+                        -115.7,
+                        17.7
+                    ],
+                    [
+                        -116.3,
+                        17.7
+                    ],
+                    [
+                        -117.0,
+                        17.7
+                    ],
+                    [
+                        -117.7,
+                        17.7
+                    ],
+                    [
+                        -118.4,
+                        17.6
+                    ],
+                    [
+                        -119.2,
+                        17.4
+                    ],
+                    [
+                        -119.9,
+                        17.1
+                    ],
+                    [
+                        -120.5,
+                        16.8
+                    ],
+                    [
+                        -121.1,
+                        16.6
+                    ],
+                    [
+                        -121.8,
+                        16.4
+                    ],
+                    [
+                        -122.5,
+                        16.3
+                    ],
+                    [
+                        -123.3,
+                        16.2
+                    ],
+                    [
+                        -124.3,
+                        16.2
+                    ],
+                    [
+                        -125.5,
+                        16.5
+                    ],
+                    [
+                        -126.7,
+                        16.9
+                    ],
+                    [
+                        -128.3,
+                        17.4
+                    ],
+                    [
+                        -130.0,
+                        17.9
+                    ],
+                    [
+                        -131.8,
+                        18.4
+                    ],
+                    [
+                        -133.8,
+                        18.8
+                    ],
+                    [
+                        -135.7,
+                        19.1
+                    ],
+                    [
+                        -137.6,
+                        19.4
+                    ],
+                    [
+                        -139.4,
+                        19.7
+                    ],
+                    [
+                        -141.0,
+                        19.9
+                    ],
+                    [
+                        -142.6,
+                        19.9
+                    ],
+                    [
+                        -143.9,
+                        19.8
+                    ],
+                    [
+                        -145.1,
+                        19.8
+                    ],
+                    [
+                        -146.1,
+                        19.6
+                    ],
+                    [
+                        -147.2,
+                        19.5
+                    ],
+                    [
+                        -148.0,
+                        19.6
+                    ],
+                    [
+                        -148.8,
+                        19.8
+                    ],
+                    [
+                        -149.5,
+                        20.1
+                    ],
+                    [
+                        -150.2,
+                        20.5
+                    ],
+                    [
+                        -150.6,
+                        21.0
+                    ],
+                    [
+                        -151.1,
+                        21.6
+                    ],
+                    [
+                        -151.6,
+                        22.1
+                    ],
+                    [
+                        -152.1,
+                        22.8
+                    ],
+                    [
+                        -152.6,
+                        23.7
+                    ],
+                    [
+                        -153.1,
+                        24.6
+                    ],
+                    [
+                        -153.5,
+                        25.1
+                    ],
+                    [
+                        -154.1,
+                        25.7
+                    ],
+                    [
+                        -154.4,
+                        26.4
+                    ],
+                    [
+                        -154.1,
+                        27.1
+                    ],
+                    [
+                        -153.9,
+                        27.9
+                    ],
+                    [
+                        -153.9,
+                        28.6
+                    ],
+                    [
+                        -153.5,
+                        29.6
+                    ],
+                    [
+                        -153.2,
+                        30.8
+                    ],
+                    [
+                        -152.4,
+                        31.9
+                    ]
+                ]
+            }
+        }
+    ],
+    "properties": {
+        "name": "NORMAN",
+        "basin": "EP",
+        "year": "2018",
+        "number": "16"
+    }
+}

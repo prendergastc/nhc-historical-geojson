@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9,
+                    13.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "2017-05-31 12:00:00+00:00",
+                "pressure-mb": 1007.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7,
+                    14.0
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2017-05-31 18:00:00+00:00",
+                "pressure-mb": 1006.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5,
+                    14.2
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2017-06-01 00:00:00+00:00",
+                "pressure-mb": 1004.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3,
+                    14.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 35.0,
+                "datetime-utc": "2017-06-01 06:00:00+00:00",
+                "pressure-mb": 1003.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1,
+                    14.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 40.0,
+                "datetime-utc": "2017-06-01 12:00:00+00:00",
+                "pressure-mb": 1001.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9,
+                    15.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 40.0,
+                "datetime-utc": "2017-06-01 18:00:00+00:00",
+                "pressure-mb": 1001.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6,
+                    15.7
+                ]
+            },
+            "properties": {
+                "id-code": "L",
+                "status": "TS",
+                "wind-speed": 40.0,
+                "datetime-utc": "2017-06-02 00:00:00+00:00",
+                "pressure-mb": 1001.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.3,
+                    16.3
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2017-06-02 06:00:00+00:00",
+                "pressure-mb": 1006.0
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.9,
+                        13.8
+                    ],
+                    [
+                        -97.7,
+                        14.0
+                    ],
+                    [
+                        -97.5,
+                        14.2
+                    ],
+                    [
+                        -97.3,
+                        14.5
+                    ],
+                    [
+                        -97.1,
+                        14.8
+                    ],
+                    [
+                        -96.9,
+                        15.1
+                    ],
+                    [
+                        -96.6,
+                        15.7
+                    ],
+                    [
+                        -96.3,
+                        16.3
+                    ]
+                ]
+            }
+        }
+    ],
+    "properties": {
+        "name": "BEATRIZ",
+        "basin": "EP",
+        "year": "2017",
+        "number": "02"
+    }
+}

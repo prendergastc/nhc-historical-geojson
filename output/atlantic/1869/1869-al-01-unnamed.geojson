@@ -1,104 +1,104 @@
 {
-    "type": "FeatureCollection", 
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -47.5, 
+                    -47.5,
                     40.5
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "HU", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1869-08-12 00:00:00+00:00", 
-                "wind-speed": 90.0
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "1869-08-12 00:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -46.8, 
+                    -46.8,
                     41.5
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "HU", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1869-08-12 06:00:00+00:00", 
-                "wind-speed": 90.0
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "1869-08-12 06:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -46.0, 
+                    -46.0,
                     42.5
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "HU", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1869-08-12 12:00:00+00:00", 
-                "wind-speed": 90.0
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "1869-08-12 12:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -45.0, 
+                    -45.0,
                     43.5
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "HU", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1869-08-12 18:00:00+00:00", 
-                "wind-speed": 90.0
+                "id-code": "",
+                "status": "HU",
+                "wind-speed": 90.0,
+                "datetime-utc": "1869-08-12 18:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
+            "properties": {},
             "geometry": {
-                "type": "LineString", 
+                "type": "LineString",
                 "coordinates": [
                     [
-                        -47.5, 
+                        -47.5,
                         40.5
-                    ], 
+                    ],
                     [
-                        -46.8, 
+                        -46.8,
                         41.5
-                    ], 
+                    ],
                     [
-                        -46.0, 
+                        -46.0,
                         42.5
-                    ], 
+                    ],
                     [
-                        -45.0, 
+                        -45.0,
                         43.5
                     ]
                 ]
-            }, 
-            "type": "Feature", 
-            "properties": {}
+            }
         }
-    ], 
+    ],
     "properties": {
-        "basin": "AL", 
-        "number": "01", 
-        "name": "UNNAMED", 
-        "year": "1869"
+        "name": "UNNAMED",
+        "basin": "AL",
+        "year": "1869",
+        "number": "01"
     }
 }

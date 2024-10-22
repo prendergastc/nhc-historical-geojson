@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.3,
+                    17.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "1988-10-11 06:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.5,
+                    16.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1988-10-11 12:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9,
+                    16.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1988-10-11 18:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.8,
+                    16.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1988-10-12 00:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.9,
+                    15.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1988-10-12 06:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.7,
+                    16.0
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1988-10-12 12:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.3,
+                    16.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "1988-10-12 18:00:00+00:00",
+                "pressure-mb": -999.0
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -109.3,
+                        17.5
+                    ],
+                    [
+                        -110.5,
+                        16.8
+                    ],
+                    [
+                        -111.9,
+                        16.1
+                    ],
+                    [
+                        -112.8,
+                        16.1
+                    ],
+                    [
+                        -113.9,
+                        15.9
+                    ],
+                    [
+                        -114.7,
+                        16.0
+                    ],
+                    [
+                        -115.3,
+                        16.1
+                    ]
+                ]
+            }
+        }
+    ],
+    "properties": {
+        "name": "UNNAMED",
+        "basin": "EP",
+        "year": "1988",
+        "number": "20"
+    }
+}

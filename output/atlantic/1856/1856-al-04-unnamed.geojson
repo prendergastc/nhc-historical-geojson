@@ -1,41 +1,41 @@
 {
-    "type": "FeatureCollection", 
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -82.5, 
+                    -82.5,
                     23.0
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1856-08-21 12:00:00+00:00", 
-                "wind-speed": 50.0
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 50.0,
+                "datetime-utc": "1856-08-21 12:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
+            "properties": {},
             "geometry": {
-                "type": "LineString", 
+                "type": "LineString",
                 "coordinates": [
                     [
-                        -82.5, 
+                        -82.5,
                         23.0
                     ]
                 ]
-            }, 
-            "type": "Feature", 
-            "properties": {}
+            }
         }
-    ], 
+    ],
     "properties": {
-        "basin": "AL", 
-        "number": "04", 
-        "name": "UNNAMED", 
-        "year": "1856"
+        "name": "UNNAMED",
+        "basin": "AL",
+        "year": "1856",
+        "number": "04"
     }
 }

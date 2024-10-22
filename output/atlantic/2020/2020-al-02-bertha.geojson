@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8,
+                    31.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 40.0,
+                "datetime-utc": "2020-05-27 06:00:00+00:00",
+                "pressure-mb": 1006.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5,
+                    32.6
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 45.0,
+                "datetime-utc": "2020-05-27 12:00:00+00:00",
+                "pressure-mb": 1005.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7,
+                    32.9
+                ]
+            },
+            "properties": {
+                "id-code": "L",
+                "status": "TS",
+                "wind-speed": 45.0,
+                "datetime-utc": "2020-05-27 13:30:00+00:00",
+                "pressure-mb": 1005.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1,
+                    33.7
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2020-05-27 18:00:00+00:00",
+                "pressure-mb": 1007.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7,
+                    34.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 25.0,
+                "datetime-utc": "2020-05-28 00:00:00+00:00",
+                "pressure-mb": 1008.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1,
+                    37.1
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 20.0,
+                "datetime-utc": "2020-05-28 06:00:00+00:00",
+                "pressure-mb": 1011.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6,
+                    39.9
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "EX",
+                "wind-speed": 20.0,
+                "datetime-utc": "2020-05-28 12:00:00+00:00",
+                "pressure-mb": 1011.0
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -78.8,
+                        31.5
+                    ],
+                    [
+                        -79.5,
+                        32.6
+                    ],
+                    [
+                        -79.7,
+                        32.9
+                    ],
+                    [
+                        -80.1,
+                        33.7
+                    ],
+                    [
+                        -80.7,
+                        34.9
+                    ],
+                    [
+                        -81.1,
+                        37.1
+                    ],
+                    [
+                        -80.6,
+                        39.9
+                    ]
+                ]
+            }
+        }
+    ],
+    "properties": {
+        "name": "BERTHA",
+        "basin": "AL",
+        "year": "2020",
+        "number": "02"
+    }
+}

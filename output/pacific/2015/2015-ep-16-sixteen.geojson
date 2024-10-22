@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.7,
+                    24.3
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-20 18:00:00+00:00",
+                "pressure-mb": 1003.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4,
+                    25.5
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-21 00:00:00+00:00",
+                "pressure-mb": 1002.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.1,
+                    26.6
+                ]
+            },
+            "properties": {
+                "id-code": "L",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-21 04:45:00+00:00",
+                "pressure-mb": 1001.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.0,
+                    26.8
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-21 06:00:00+00:00",
+                "pressure-mb": 1001.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.5,
+                    28.3
+                ]
+            },
+            "properties": {
+                "id-code": "",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-21 12:00:00+00:00",
+                "pressure-mb": 1001.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.3,
+                    28.8
+                ]
+            },
+            "properties": {
+                "id-code": "L",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-21 13:45:00+00:00",
+                "pressure-mb": 1002.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.2,
+                    29.2
+                ]
+            },
+            "properties": {
+                "id-code": "L",
+                "status": "TD",
+                "wind-speed": 30.0,
+                "datetime-utc": "2015-09-21 15:00:00+00:00",
+                "pressure-mb": 1003.0
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -113.7,
+                        24.3
+                    ],
+                    [
+                        -113.4,
+                        25.5
+                    ],
+                    [
+                        -113.1,
+                        26.6
+                    ],
+                    [
+                        -113.0,
+                        26.8
+                    ],
+                    [
+                        -112.5,
+                        28.3
+                    ],
+                    [
+                        -112.3,
+                        28.8
+                    ],
+                    [
+                        -112.2,
+                        29.2
+                    ]
+                ]
+            }
+        }
+    ],
+    "properties": {
+        "name": "SIXTEEN",
+        "basin": "EP",
+        "year": "2015",
+        "number": "16"
+    }
+}

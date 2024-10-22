@@ -41,8 +41,8 @@ for basin in basins:
             try:
                 storm_properties = json_contents['properties']
             except KeyError:
-                print filepath
-                print json_contents.keys()
+                print(filepath)
+                print(json_contents.keys())
                 sys.exit()
 
             # Find the polyline
@@ -58,7 +58,7 @@ for basin in basins:
             # Find the highest wind speed of any data point
             wind_speeds = []
             for feature in features:
-                if feature['properties'].has_key('wind-speed'):
+                if 'wind-speed' in feature['properties']:
                     wind_speeds.append(feature['properties']['wind-speed'])
 
             # Figure out the storm classification
@@ -66,7 +66,7 @@ for basin in basins:
             max_speed_knots = sorted_wind_speeds[0]
             storm_properties['max-wind-speed-knots'] = max_speed_knots
 
-            # Calcualte the classification on the Saffir-Simpson Scale
+            # Calculate the classification on the Saffir-Simpson Scale
             if max_speed_knots <= 33:
                 storm_properties['classification'] = 'TD'
             elif max_speed_knots <= 63:

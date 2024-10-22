@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
     for basin_name in ('atlantic', 'pacific'):
 
-        print 'Basin: %s' % basin_name
+        print('Basin: %s' % basin_name)
 
         storms = []
         current_storm = None
@@ -226,7 +226,7 @@ if __name__ == '__main__':
         'pacific-storms': [s.to_manifest_dict() for s in PACIFIC_STORMS],
     }
 
-    print 'Writing Manifest File.'
+    print('Writing Manifest File.')
     with open('output/manifest.json', 'w') as f:
         f.write(json.dumps(manifest, indent=4))
 

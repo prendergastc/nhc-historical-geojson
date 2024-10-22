@@ -1,188 +1,146 @@
 {
-    "type": "FeatureCollection", 
+    "type": "FeatureCollection",
     "features": [
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -56.3, 
-                    13.7
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "id-code": "", 
-                "status": "TD", 
-                "pressure-mb": 1007.0, 
-                "datetime-utc": "1959-08-17 18:00:00+00:00", 
-                "wind-speed": 30.0
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -57.9, 
+                    -57.9,
                     14.3
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-18 00:00:00+00:00", 
-                "wind-speed": 35.0
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 35.0,
+                "datetime-utc": "1959-08-18 00:00:00+00:00",
+                "pressure-mb": 1007.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -60.0, 
-                    15.1
+                    -59.9,
+                    14.9
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-18 06:00:00+00:00", 
-                "wind-speed": 40.0
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 40.0,
+                "datetime-utc": "1959-08-18 06:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -61.0, 
-                    15.9
+                    -61.3,
+                    15.3
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-18 12:00:00+00:00", 
-                "wind-speed": 50.0
+                "id-code": "L",
+                "status": "TS",
+                "wind-speed": 50.0,
+                "datetime-utc": "1959-08-18 10:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -62.5, 
-                    16.8
+                    -61.8,
+                    15.5
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-18 18:00:00+00:00", 
-                "wind-speed": 40.0
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 50.0,
+                "datetime-utc": "1959-08-18 12:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -64.8, 
-                    17.2
+                    -63.7,
+                    16.1
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-19 00:00:00+00:00", 
-                "wind-speed": 35.0
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 40.0,
+                "datetime-utc": "1959-08-18 18:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
             "geometry": {
-                "type": "Point", 
+                "type": "Point",
                 "coordinates": [
-                    -67.9, 
-                    17.2
+                    -65.5,
+                    16.7
                 ]
-            }, 
-            "type": "Feature", 
+            },
             "properties": {
-                "id-code": "", 
-                "status": "TS", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-19 06:00:00+00:00", 
-                "wind-speed": 35.0
+                "id-code": "",
+                "status": "TS",
+                "wind-speed": 35.0,
+                "datetime-utc": "1959-08-19 00:00:00+00:00",
+                "pressure-mb": -999.0
             }
-        }, 
+        },
         {
+            "type": "Feature",
+            "properties": {},
             "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -71.1, 
-                    17.2
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "id-code": "", 
-                "status": "TD", 
-                "pressure-mb": -999.0, 
-                "datetime-utc": "1959-08-19 12:00:00+00:00", 
-                "wind-speed": 30.0
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "LineString", 
+                "type": "LineString",
                 "coordinates": [
                     [
-                        -56.3, 
-                        13.7
-                    ], 
-                    [
-                        -57.9, 
+                        -57.9,
                         14.3
-                    ], 
+                    ],
                     [
-                        -60.0, 
-                        15.1
-                    ], 
+                        -59.9,
+                        14.9
+                    ],
                     [
-                        -61.0, 
-                        15.9
-                    ], 
+                        -61.3,
+                        15.3
+                    ],
                     [
-                        -62.5, 
-                        16.8
-                    ], 
+                        -61.8,
+                        15.5
+                    ],
                     [
-                        -64.8, 
-                        17.2
-                    ], 
+                        -63.7,
+                        16.1
+                    ],
                     [
-                        -67.9, 
-                        17.2
-                    ], 
-                    [
-                        -71.1, 
-                        17.2
+                        -65.5,
+                        16.7
                     ]
                 ]
-            }, 
-            "type": "Feature", 
-            "properties": {}
+            }
         }
-    ], 
+    ],
     "properties": {
-        "basin": "AL", 
-        "number": "06", 
-        "name": "EDITH", 
-        "year": "1959"
+        "name": "EDITH",
+        "basin": "AL",
+        "year": "1959",
+        "number": "06"
     }
 }
